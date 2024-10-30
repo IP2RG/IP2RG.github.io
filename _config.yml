@@ -10,7 +10,7 @@ title                    : "Hong Lang"
 description              : "Intelligent Infrastructure, Sensing Technologies"
 repository               : "IP2RG/IP2RG.github.io"
 url                      : "https://IP2RG.github.io"
-baseurl                  : ""  # 这应该是空的或不存在
+baseurl                  : "" 
 
 google_scholar_stats_use_cdn : false
 
