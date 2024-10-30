@@ -17,20 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
+郎洪博士主要从事智能化检测装备、道路工程理论与人工智能交叉研究。主持国家级、省部级项目5项并参与1项2024年云南省科技厅重点专项、1项美国伊利诺伊州交通中心项目、1项十三五国家重点研发专项，作为技术负责人完成智能感知、设施检监测方向的横向课题30余项。在世界交通大会、国际青年论坛、中国公路学会养护与管理分会等出席报告10余次。以一作或通讯发表SCI论文15篇（1区10篇），EI及中文18篇，发明专利5项，1份中国公路学会团体标准《车载式路面病害三维检测系统》，1本同济大学著作《路面质量评价与现代检测技术及应用》，1项上海市交通工程学会科学技术奖一等奖《道路全域感知下的驾驶行为谱理论与危险驾驶智能辨识技术》。
+
  <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=hq_bKtQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
-- 智能设施
-- 
+- 公路智能化装备制造
+- 智能设施检测与运维（表观、地下及边坡）
+- 可持续路面（能量捕获、最优化集配，轮胎与路面相互作用等）
   
 
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2016.09 - 2021.06*, <a href="https://www.tongji.edu.c/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 同济大学 交通运输与工程学院, 上海市, 推免直博 
+- *2012.09 - 2016.06*, <a href="https://www.tust.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 天津科技大学 电子信息与自动化学院, 天津市, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
