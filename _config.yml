@@ -8,8 +8,8 @@
 # Site Settings
 title                    : "Hong Lang"
 description              : "Intelligent Infrastructure, Sensing Technologies"
-repository               : "IP2RG/honglang.github.io"
-url                      : "https://IP2RG.github.io/IP2RG.github.io"
+repository               : "IP2RG/IP2RG.github.io"
+url                      : "https://IP2RG.github.io"
 baseurl                  : ""  # 这应该是空的或不存在
 
 google_scholar_stats_use_cdn : false
